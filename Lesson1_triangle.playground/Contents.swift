@@ -11,7 +11,7 @@ var c = Int();
 var p = Int();
 var s = Int();
 
-c = Int(sqrt(Double((a*a)+(b*b))))
+c = Int(sqrt(Float16((a*a)+(b*b))))
 
 p = a + b + c;
 

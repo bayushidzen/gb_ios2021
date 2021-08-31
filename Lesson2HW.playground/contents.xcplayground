@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1)EvenNotEven'/>
+        <page name='2) Division3'/>
+        <page name='3&amp;4) Array'/>
+        <page name='5) Fibonacci'/>
+        <page name='6) Eratosthenes'/>
+    </pages>
+</playground>
