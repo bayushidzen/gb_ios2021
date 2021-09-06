@@ -19,7 +19,7 @@ while Double(z) < sqrt(Double(array100[array100.count - 1])) {
         for i in stride(from: p*p, through: n, by: p) {
             if let j = array100.firstIndex(of: i) {
                     array100.remove(at: j)
-            }}
+            }};print("Массив чисел Эратосфена:",array100);
         z += 1;
     }
 }
